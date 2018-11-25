@@ -1,6 +1,6 @@
 ---
 output: 
-  pdf_document:
+  pdf_document: 
     keep_tex: true
     fig_caption: yes
     latex_engine: pdflatex
